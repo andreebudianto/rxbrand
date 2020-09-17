@@ -15,7 +15,7 @@ body {
 }
 
 .banner {
-    background-image: url(https://images.unsplash.com/photo-1581091014534-898da33e356e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    
     background-size: cover;
     background-position: top;
     height: 100vh;
